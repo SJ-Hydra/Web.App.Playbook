@@ -49,7 +49,7 @@ Session Management: Cookie Expiration
 Session Management: Randomness
 
 Field Entry: SQL
-Field Entry: XXS
+Field Entry: XXS: https://github.com/pgaijin66/XSS-Payloads/blob/master/payload.txt
 Field Entry: XXE
 
 API: Misconfigurations
