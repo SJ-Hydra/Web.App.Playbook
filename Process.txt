@@ -29,8 +29,9 @@ Information Disclosure: Verbose HTTP Response Headers
 Information Disclosure: Default Content Not Deleted (Apache: index.html..., IIS: ...)
 Information Disclosure: robots.txt, sitemap.xls, phpinfo.php
 
-Software: Web Server poor patch management, exploitdb, cve
-Software: Outdated libraries, exploitdb, cve
+Software: Web Server version
+Software: Web Application version
+Software: Web Application Frame, Libraries, etc.
 
 Login Portal: Error Message Username Enumeration
 Login Portal: Weak Password Policy
