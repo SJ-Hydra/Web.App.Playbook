@@ -31,7 +31,7 @@ Information Disclosure: robots.txt, sitemap.xls, phpinfo.php
 
 Software: Web Server version
 Software: Web Application version
-Software: Web Application Frame, Libraries, etc.
+Software: Web Application Framework, Libraries, etc.
 
 Login Portal: Error Message Username Enumeration
 Login Portal: Weak Password Policy
