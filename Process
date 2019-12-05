@@ -25,6 +25,10 @@ HTTP Sec Headers Check: https://securityheaders.com/
 Information Disclosure: Verbose HTTP Response Headers
 Information Disclosure: Default Content Not Deleted (Apache: index.html..., IIS: ...)
 Information Disclosure: robots.txt, sitemap.xls, phpinfo.php
+
+Software: Web Server poor patch management, exploitdb, cve
+Software: Outdated libraries, exploitdb, cve
+
 Login Portal: Error Message Username Enumeration
 Login Portal: Weak Password Policy
 Login Portal: Brute Force Protection
@@ -60,4 +64,6 @@ Other: Outright Disclosures
 Other: Sensitive data unprotected
 
 Email (for password reset, etc.): SPF Record Check, DMS
+
+Let the application guide you from here, misconfigurations are bound to be around. 
 
