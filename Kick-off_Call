@@ -1,0 +1,26 @@
+## Penetration Web Application Test Kick-off Discussion/Questions
+
+## This test will be coducted over the <timeframe>. During the extent of the timeframe, I will be performing a number of automated and manual tests on the application.  This will include running automated tools, like Nessus, Nikto, and Nmap and performing user-input field fuzzing. In addition, the application will be examined for misconfigurations that permits a user to circumvent security controls. 
+
+## Questions
+- At a high-level, can you describe the functionality of your application?
+
+- Is there a login portal?
+	- Are there multiple user roles? 
+	- Please describe the function and permissions of each role.
+	- Can you provide usable credentials during the test?
+
+- What does the infrastructure of the web application look like?
+	- Is the infrastructure cloud-based?
+	- Is there a load balancer used?
+	- Is there a intermediary security product, like Cloud Flare?
+		- If so, can you white-list the testing range IP?
+
+
+- What are your primary security concerns regarding the application?
+
+- Is there any other information you'd like me to know regarding the application?
+
+- How would you like to communicate updates and/or emergency security findings?
+	- How often would you like an update?
+
