@@ -14,7 +14,7 @@
 - Is there a login portal?
 	- Are there multiple user roles? 
 	- Please describe the function and permissions of each role.
-	- Can you provide usable credentials during the test?
+	- Can you provide usable credentials for each role for the purposes of testing?
 
 - What does the infrastructure of the web application look like?
 	- Is the infrastructure cloud-based?
