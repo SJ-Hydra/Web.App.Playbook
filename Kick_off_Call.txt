@@ -16,6 +16,9 @@
 	- Is there a intermediary security product, like Cloud Flare?
 		- If so, can you white-list the testing range IP?
 
+- Are you using any APIs?
+	- What are the API functions?
+	- Can you provide API documentation with expected calls? For example, a postman file.	
 
 - What are your primary security concerns regarding the application?
 
