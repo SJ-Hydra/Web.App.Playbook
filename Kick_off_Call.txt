@@ -1,9 +1,15 @@
 ## Penetration Web Application Test Kick-off Discussion/Questions
 
+## Review scope, authorization form
+
 ## This test will be coducted over the <timeframe>. During the extent of the timeframe, I will be performing a number of automated and manual tests on the application.  This will include running automated tools, like Nessus, Nikto, and Nmap and performing user-input field fuzzing. In addition, the application will be examined for misconfigurations that permits a user to circumvent security controls. 
 
 ## Questions
 - At a high-level, can you describe the functionality of your application?
+
+- Are you using any third party entities, who may run or own the web application?
+	- Are they aware of the penetration test?
+	- Do we have permission to test?
 
 - Is there a login portal?
 	- Are there multiple user roles? 
