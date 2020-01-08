@@ -18,9 +18,6 @@
 	- Please describe the function and permissions of each role.
 	- Can you provide usable credentials for each role for the purposes of testing?
 	
-- If MFA used to access the application?
-	- Can you provide documentation/methodology to can access?
-
 - What does the infrastructure of the web application look like?
 	- Is the infrastructure cloud-based?
 	- Is there a load balancer used?
