@@ -28,6 +28,9 @@
 	- What are the API functions?
 	- Can you provide API documentation with expected calls? For example, a postman file.	
 
+- Is the application in any stage of development or change?
+	- If so, can you freeze changes until the completion of the test?
+
 - What are your primary security concerns regarding the application?
 
 - Is there any other information you'd like me to know regarding the application?
