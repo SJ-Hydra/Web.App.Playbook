@@ -4,7 +4,7 @@
 
 ## This test will be coducted over the <timeframe>. During the extent of the timeframe, I will be performing a number of automated and manual tests on the application.  This will include running automated tools, like Nessus, Nikto, and Nmap and performing user-input field fuzzing. In addition, the application will be examined for misconfigurations that permits a user to circumvent security controls. 
 
-## Take not of access method; resolve VPN access if appropriate. 
+## Take note of access method; resolve VPN access if appropriate. 
 
 ## Questions
 - At a high-level, can you describe the functionality of your application?
