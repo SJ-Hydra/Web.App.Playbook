@@ -12,14 +12,17 @@
 - Are you using any third party entities, who may run or own the web application?
 	- Are they aware of the penetration test?
 	- Do we have permission to test?
-
+	
 - What does the infrastructure of the web application look like?
 	- What components comprise the technology stack? (e.g. LAMP)
 	- Is the infrastructure cloud-based?
 	- Is there a load balancer used?
 	- Is there a intermediary security product, like Cloud Flare?
 		- If so, can you white-list the testing range IP?
-
+		
+- Is the application in any stage of development or change?
+	- If so, can you freeze changes until the completion of the test?
+	
 - Is there a login portal?
 	- Are there multiple user roles? 
 	- Please describe the function and permissions of each role.
@@ -28,9 +31,6 @@
 - Are you using any APIs?
 	- What are the API functions?
 	- Can you provide API documentation with expected calls? For example, a postman file.	
-
-- Is the application in any stage of development or change?
-	- If so, can you freeze changes until the completion of the test?
 
 - What are your primary security concerns regarding the application?
 
