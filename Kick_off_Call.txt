@@ -19,7 +19,7 @@
 	- Are you using a load balancer?
 	
 - Are there are application security products in user, for example Cloud Flare?
-		- If so, can you white-list the testing range IP?
+	- If so, can you white-list the testing range IP?
 		
 - Is the application in any stage of development or change?
 	- If so, can you freeze changes until the completion of the test?
