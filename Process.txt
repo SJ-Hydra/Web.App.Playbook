@@ -27,6 +27,8 @@ HTTP Sec Headers Check: https://securityheaders.com/
 
 **Manual Checks
 Information Disclosure: Verbose HTTP Response Headers
+Information Disclosure: Error Pages
+Information Disclosure: Document Exif Data
 Information Disclosure: Default Content Not Deleted (Apache: index.html..., IIS: ...)
 Information Disclosure: robots.txt, sitemap.xls, phpinfo.php
 
