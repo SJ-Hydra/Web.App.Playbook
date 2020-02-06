@@ -1,4 +1,4 @@
-### Web Application Penetration Test Kick-off Discussion & Questions
+# Web Application Penetration Test Kick-off Discussion & Questions
 
 ## Review scope, authorization form
 
