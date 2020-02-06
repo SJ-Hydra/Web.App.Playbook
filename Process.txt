@@ -75,5 +75,5 @@
 
 [ ] Final: Application-unique checks; does the application have unique functionality which is misconfigured?
 
-## Completion
+## Completion:
 [ ] Final: Notify system owner of completion.
