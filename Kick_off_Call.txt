@@ -56,5 +56,6 @@
 
 
 [ ] How would you like to communicate updates and/or emergency security findings?
+	- If there are any criticals or highs would you like to be notified right away?
 	- How often would you like an update?
 
