@@ -1,42 +1,60 @@
-## Web Application Penetration Test Kick-off Discussion/Questions
+### Web Application Penetration Test Kick-off Discussion & Questions
 
 ## Review scope, authorization form
 
-## This test will be coducted over the <timeframe>. During the extent of the timeframe, I will be performing a number of automated and manual tests on the application.  This will include running automated tools, like Nessus, Nikto, and Nmap and performing user-input field fuzzing. In addition, the application will be examined for misconfigurations that permits a user to circumvent security controls. 
+## Description Statement: This test will be coducted over the <timeframe>. During the extent of the timeframe, I will be performing a number of automated and manual tests on the application. This will include running automated tools, like Nessus, Nikto, and Nmap and performing field fuzzing in untrusted data submission fields. In addition, the application will be examined for misconfigurations that permits a user to circumvent security controls. 
 
 ## Take note of access method; resolve VPN or MFA access if appropriate. 
 
 ## Questions
-- At a high-level, can you describe the functionality of your application?
+[ ] At a high-level, can you describe the functionality of your application?
 
-- Are you using any third party entities, who may run or own the web application?
+
+
+[ ] Are you using any third party entities, who may run or own the web application?
 	- Are they aware of the penetration test?
 	- Do we have permission to test?
-	
-- What does the infrastructure of the web application look like?
+
+
+
+[ ] What does the infrastructure of the web application look like?
 	- What components comprise the technology stack? (e.g. LAMP)
 	- Is the infrastructure cloud-based?
 	- Are you using a load balancer?
-	
-- Are there are application security products in user, for example Cloud Flare?
+
+
+
+[ ] Are there are application security products in user, for example Cloud Flare?
 	- If so, can you white-list the testing range IP?
 		
-- Is the application in any stage of development or change?
+		
+		
+[ ] Is the application in any stage of development or change?
 	- If so, can you freeze changes until the completion of the test?
 	
-- Is there a login fuctionality?
+	
+	
+[ ] Is there a login fuctionality?
 	- Are there multiple user roles? 
 	- Please describe the function and permissions of each role.
 	- Can you provide usable credentials for each role for the purposes of testing?
 	
-- Are you using any APIs?
+	
+	
+[ ] Are you using any APIs?
 	- What are the API functions?
 	- Can you provide API documentation with expected calls? For example, a postman file.	
 
-- What are your primary security concerns regarding the application?
 
-- Is there any other information you'd like me to know regarding the application?
 
-- How would you like to communicate updates and/or emergency security findings?
+[ ] What are your primary security concerns regarding the application?
+
+
+
+[ ] Is there any other information you'd like me to know regarding the application?
+
+
+
+[ ] How would you like to communicate updates and/or emergency security findings?
 	- How often would you like an update?
 
