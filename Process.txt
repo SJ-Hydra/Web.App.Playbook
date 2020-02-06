@@ -1,5 +1,6 @@
 # Web Application Testing Notes, Resources
 
+## Admin:
 [ ] First: System Owner Authorization
 [ ] First: System Owner Communication Agreement
 [ ] First: Notify System Owner of Commencement
@@ -74,4 +75,5 @@
 
 [ ] Final: Application-unique checks; does the application have unique functionality which is misconfigured?
 
+## Completion
 [ ] Final: Notify system owner of completion.
