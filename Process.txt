@@ -41,6 +41,9 @@
 [ ] Login Portal: Brute Force Protection
 [ ] Login Portal: Account Lockout
 
+[ ] Upload Form: Filter Bypass
+[ ] Upload Form: Malware Scanning
+
 [ ] Account Login: Poor password change function
 [ ] Account Login: Concurrent Login
 [ ] Account Login: Username Change Function
