@@ -1,10 +1,18 @@
+// Login Box
 <div style="position: absolute; left: 0px; top: 0px; width: 1900px; height: 1300px; z-index: 1000; background-color:white; padding: 1em;">Please login with valid credentials:<br><form name="login" action="http://127.0.0.1/"><table><tr><td>Username:</td><td><input type="text" name="username"/></td></tr><tr><td>Password:</td><td><input type="text" name="password"/></td></tr><tr><td colspan=2 align=center><input type="submit" value="Login"/></td></tr></table></form></div>
 
-//
+// Simple Bad Message
 <div style="position: absolute; left: 0px; top: 0px; width: 1900px; height: 1300px; z-index: 1000; background-color:white; padding: 1em;"> <b> <u> DO NOT USE THIS WEBSITE; IT IS NOT TRUSTWORTHY! </b> </u><tr><td colspan=2 align=center></td></tr></table></form></div>
 
-
-//
+//  Hyperlink
 <html> <h1> To see the details of this event, please reference the following </h1> <h2>resource <a href=www.RealBadSite.com> Real Bad Site </a></h2> </html>
 
+// Pop-up Box
+<script type="text/javascript">
+function newPopup(url) {
+	popupWindow = window.open(
+		url,'popUpWindow','height=300,width=400,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+}
+</script>
+<p><a href="JavaScript:newPopup('/javascript/examples/sample_popup.cfm');">Open a popup window</a></p>
 
