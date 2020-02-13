@@ -1,0 +1,31 @@
+[ ] What are you looking for from a technical assurance perspective?  What are your security testing goals?
+   
+[ ] Can you describe the systems you'd like tested?
+
+## Externals
+## Externals are considered external scans for exposed infrasture services avaliable to the world. For example, the incorrect use of ports or protocols associated with desired services (e.g. FTP use rather than SFTP). 
+
+[ ] How many external (public) IP addresses would you like tested security flaws?
+
+[ ] Could you describe the services you expect to be in use? (e.g. Web Servers)
+
+[ ] Would you like social engineering testing? This could include phishing or vishing in addition to external tests. 
+
+# Web Applications
+
+[ ] Can you describe the purpose of web application(s) in use?
+
+[ ] Would you describe the technology stack?
+
+[ ] Are there security products in use?  Could you 
+
+[ ] Would you like white, grey, or black box testing for the application?
+
+
+[ ] Is there log-in functionality in use? 
+	[ ] Are there different roles?  Could you describe the different roles in use?
+
+[ ] Are there functions of the application that you'd like avoided?
+
+## Always scope high. Then the timetable can be discussed by the account managers.
+
