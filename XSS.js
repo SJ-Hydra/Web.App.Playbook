@@ -1,4 +1,6 @@
-// XSS Payloads
+/* The following are XSS payloads from
+various sources. After recieving a pop-up box
+alter the payload to fit your desired outcome */
 
 // Bland
 <sCriPt>alert("1")</ScRipt>
