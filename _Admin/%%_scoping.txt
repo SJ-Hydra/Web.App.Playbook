@@ -1,9 +1,18 @@
+## Greetings
+
 [ ] What are you looking for from a technical assurance perspective?  What are your security testing goals?
    
 [ ] Can you describe the systems you'd like tested?
 
+## Internals
+## "Internals" are considered internal network penetration tests. Typically, you would provide some form of internal network access, for instance through a VPN or by permitting the delivery of a remote testing laptop. Typically black box.
+[ ] How big is your network?  
+	[ ] How many workstations do you have? Servers? 
+
+
+
 ## Externals
-## Externals are considered external scans for exposed infrasture services avaliable to the world. For example, the incorrect use of ports or protocols associated with desired services (e.g. FTP use rather than SFTP). 
+## "Externals" are considered external scans for exposed infrasture services avaliable to the world. For example, the incorrect use of ports or protocols associated with desired services (e.g. FTP use rather than SFTP). 
 
 [ ] How many external (public) IP addresses would you like tested security flaws?
 
@@ -11,8 +20,8 @@
 
 [ ] Would you like social engineering testing? This could include phishing or vishing in addition to external tests. 
 
-# Web Applications
-
+## Web Applications
+## Web app testing is considered web site testing.  Typically grey box. 
 [ ] Can you describe the purpose of web application(s) in use?
 
 [ ] Would you describe the technology stack?
