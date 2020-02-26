@@ -8,12 +8,11 @@
 ## "Internals" are considered internal network penetration tests. Typically, you would provide some form of internal network access, for instance through a VPN or by permitting the delivery of a remote testing laptop. Typically black box.
 [ ] How big is your network; how many IPs are there? 
 	[ ] How many workstations do you have? Servers? 
-
-[ ] Where is the network physically located?
-	[ ] If multiple locations, how is it logically connected?
+		[ ] How many email servers?
+		[ ] How many web servers?
 	
 [ ] What is your domain administration look like? 
-	[ ] Active directory, RADIUS, LDAP? 
+	[ ] How many domain controllers? 
 	
 [ ] What is your password policy?
 	[ ] Character length?  
@@ -25,6 +24,12 @@
 [ ] What are the operating systems within the environment?
 
 [ ] Are there applications within the internal environment that provide access to the domain?
+
+[ ] Where is the network physically located?
+	[ ] If multiple locations, how is it logically connected?
+
+[ ] How many network devices do you have?
+	[ ] Switches? Routers? Firewalls?
 
 [ ] Are there any sensitive areas of the network that are deemed critical? 
 
