@@ -54,8 +54,13 @@
 [ ] Is there any other information you'd like me to know regarding the application?  Is there anything that you would like me to pay special attention to during the engagement?
 
 
+[ ] Regarding the incident response report, are there any indicators that you'd like me to conduct and catalog?
+	- Any particular asset?
+	- Any particular technique? 
+
 
 [ ] How would you like to communicate updates and/or emergency security findings?
 	- If there are any criticals or highs would you like to be notified right away?
 	- How often would you like an update?
+
 
