@@ -10,6 +10,7 @@
 	[ ] How many workstations do you have? Servers? 
 		[ ] How many email servers?
 		[ ] How many web servers?
+		[ ] How many database servers?
 	
 [ ] What is your domain administration look like? 
 	[ ] How many domain controllers? 
