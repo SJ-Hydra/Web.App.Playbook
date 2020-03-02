@@ -26,7 +26,7 @@
 
 [ ] Are there applications within the internal environment that provide access to the domain?
 
-[ ] Where is the network physically located?
+[ ] Where is the network physically located - on premises or cloud hosted? 
 	[ ] If multiple locations, how is it logically connected?
 
 [ ] How many network devices do you have?
