@@ -1,0 +1,13 @@
+## External Processes
+
+## Scan all public facing IPs
+
+[ ] Cleartext protocols
+
+[ ] Encrypted Protocols
+  [ ] Check appropriate config
+  
+[ ] Login Functionalities
+
+[ ] Exposed ports
+
