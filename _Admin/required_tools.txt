@@ -6,3 +6,8 @@
 [ ] Nessus (or alternative scanner)
 [ ] Visual Studio Code
 [ ] Firefox or Chrome (for developer tools)
+
+[ ] Store logs for 90 days
+    [ ] Web requests
+    [ ] Nmap scans
+    [ ] Notes
