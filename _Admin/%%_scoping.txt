@@ -61,5 +61,11 @@
 
 [ ] Are there functions of the application that you'd like avoided?
 
-## Always scope high. Then the timetable can be discussed by the account managers.
+## Social Engineering
+## Social engineering testing is conducted through vishing and phishing targeted employees in order to assess their security awareness training.
 
+[ ] How many employees would you like assessed?  A sample size of the workforce?
+
+[ ] What are your goals for the social engineering testing?  Clicks, credential harvesting, or code execution on end-points?
+
+[ ] Would you be able to facilitate testing by either (1) checking user traffic or (2) facilitating phishing delivery?
