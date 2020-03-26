@@ -55,11 +55,18 @@
 
 [ ] Would you like white, grey, or black box testing for the application?
 
-
 [ ] Is there log-in functionality in use? 
 	[ ] Are there different roles?  Could you describe the different roles in use?
 
 [ ] Are there functions of the application that you'd like avoided?
+
+[ ] Are these APIs in use?
+	[ ] Do you have well documented API calls? (Postman file, WSDL file, etc.)
+
+[ ] Do you want in-depth testing on API?
+
+## API Testing
+## API testing concerns examining the API calls in depth. It is a very labor intense process that involves fuzzing the parameters of each untrusted data field within each API call. 
 
 ## Social Engineering
 ## Social engineering testing is conducted through vishing and phishing targeted employees in order to assess their security awareness training.
