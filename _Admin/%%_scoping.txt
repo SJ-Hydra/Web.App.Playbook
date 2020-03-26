@@ -32,7 +32,17 @@
 [ ] How many network devices do you have?
 	[ ] Switches? Routers? Firewalls?
 
-[ ] Are there any sensitive areas of the network that are deemed critical? 
+[ ] Are there wireless access points within the network?
+	[ ] Would you like wireless access testing?
+
+## Wireless Testing
+## Wireless testing regards testing wireless access points configurations and those particular assets' attachment to the network. We're looking for outdated or insecure encryption protocols, lack of trusted source authorization, and other misconfiguraitons.
+
+[ ] How many wireless access points do you have in your network?
+
+[ ] Are they all within the single campus, accessible from a delivered device or would we need to send multiple devices?
+
+[ ] Would you a remote wireless test or on-prem?
 
 ## Externals
 ## "Externals" are considered external scans for exposed infrasture services avaliable to the world. For example, the incorrect use of ports or protocols associated with desired services (e.g. FTP use rather than SFTP). 
