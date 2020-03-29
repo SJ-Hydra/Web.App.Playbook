@@ -2,12 +2,12 @@
 
 ## Scan all public facing IPs
 
-[ ] Cleartext protocols
+[ ] Cleartext services
 
-[ ] Encrypted Protocols
+[ ] Encrypted services
   [ ] Check appropriate config
   
 [ ] Login Functionalities
 
-[ ] Exposed ports
+[ ] Exposed services
 
