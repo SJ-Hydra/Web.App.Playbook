@@ -2,12 +2,12 @@
 [ ] internet connection
 
 [ ] Burp Suite Pro
-[ ] VMWare Workstation Pro
+[ ] VMWare Workstation Pro (or alternative hypervisor)
 [ ] Nessus (or alternative scanner)
 [ ] Visual Studio Code
 [ ] Firefox or Chrome (for developer tools)
 
-[ ] Store logs for 90 days
+[ ] Store logs for 120 days
     [ ] Web requests
     [ ] Nmap scans
     [ ] Notes
