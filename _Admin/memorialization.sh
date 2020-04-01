@@ -7,7 +7,6 @@ GREY='\033[0;34m'
 RED='\033[0;31m' 
 NC='\033[0m' #No Color
 
-
 # Introduction
 sed -n '2p' ./memorialization.sh
 sed -n '3p' ./memorialization.sh
@@ -16,6 +15,7 @@ echo -e "${GREY}This tool is used to compile information needed for engagement m
 echo -e "${GREY}If your client asks you for scans, then you'll have them.\n${NC}"
 echo -e "${GREY}Use: ./memorialization.sh <IPs>${NC}\n"
 
+## Option Parser
 
 # Sudo Checker, sudo permission needed for following scans to complete. 
 if ! [ $(id -u) = 0 ]; then
@@ -56,4 +56,10 @@ else
    echo "Web services not detected within the environment. Nikto is not running."
 fi 
 
+
+
+
 # Commands to zip directory
+
+
+echo "Port scans and web service scans are now zipped into the directory. You should retain Burp logs and your Bash command logs upon the completion of the engagement."
