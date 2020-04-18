@@ -36,7 +36,7 @@
 [ ] Software: Web Application version
 [ ] Software: Web Application Framework, Libraries, etc.
 
-[ ] Login Portal: Error Message Username Enumeration
+[ ] Login Portal: Error Message Username Enumeration, Time-based username enumeration
 [ ] Login Portal: Weak Password Policy
 [ ] Login Portal: Brute Force Protection
 [ ] Login Portal: Account Lockout
