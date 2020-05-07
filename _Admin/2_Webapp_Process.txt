@@ -58,6 +58,7 @@
 [ ] Field Entry: SQL
 [ ] Field Entry: XXS: https://github.com/pgaijin66/XSS-Payloads/blob/master/payload.txt
 [ ] Field Entry: XXE
+[ ] Field Entry: wfuzz params wfuzz -u <url> --hh=24 -c -w <wordlist>
 [ ] Field Entry: Other Fuzzing: https://github.com/minimaxir/big-list-of-naughty-strings
 
 [ ] API: Misconfigurations
