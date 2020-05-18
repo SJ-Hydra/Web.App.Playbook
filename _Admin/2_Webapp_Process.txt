@@ -43,6 +43,7 @@
 
 [ ] Upload Form: Filter Bypass
 [ ] Upload Form: Malware Scanning
+[ ] Upload Form: Upload-Bomb: https://bomb.codes/
 
 [ ] Account Login: Poor username or password change function
 [ ] Account Login: Concurrent Login
