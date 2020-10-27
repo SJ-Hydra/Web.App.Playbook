@@ -1,0 +1,3 @@
+
+//jQuery Browser Query
+console.log(jQuery().jquery);
